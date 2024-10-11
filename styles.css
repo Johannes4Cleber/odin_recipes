@@ -1,0 +1,35 @@
+h1
+    {
+        background-color: red;
+        text-align: center;
+    }
+
+h2
+    {
+        background-color: red;
+        text-align: center;
+    }
+
+.center-align
+    {
+        display: block;
+        margin: 0 auto;
+    }
+
+.text-align a
+    {   
+        display: block;
+        margin-bottom: 10px;
+        margin: 10 auto;
+
+        
+    }
+
+#about-page
+    {
+        background-color: red;
+        font-size:medium;
+        margin-top: 20px;
+    }
+
+
