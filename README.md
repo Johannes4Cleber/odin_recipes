@@ -1,5 +1,7 @@
-Top project
+The Odin Project Assignment
 
-For now i will use html and css to build a website
+So far I'm only using HTML and CSS to build the site
 
-I started using css to style the site according to The Odin Project's assignments
+Personal Notes:
+-I need to learn how to commit efficiently and clearly
+-I need to learn how to use flexbox or whatever is necessary to be able to centralize the recipe link on the homepage
